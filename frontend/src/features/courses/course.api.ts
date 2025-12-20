@@ -7,3 +7,16 @@ import { mapCourseFromApi } from "./course.utils";
   
     return data.map(mapCourseFromApi);
   }
+
+/*
+async function loadMoreCourses() {
+  const res = await fetch('/api/courses?limit=20&after=' + lastCourseId);
+  const newCourses: Course[] = await res.json();
+
+  // Append to cache
+  coursesCache.current = [...coursesCache.current, ...newCourses];
+
+  // Update UI
+  setVisibleCourses(prev => [...prev, ...newCourses]);
+}
+  */
