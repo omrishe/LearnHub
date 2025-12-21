@@ -1,5 +1,8 @@
 from . import db
 from functools import wraps
+from fastapi import Depends
+from app.utils.utils import log_errors
+
 
 #get connection and write (with commit) if it succeded
 def get_con_wr(commit=True,schema="learning_dashboard"):
@@ -28,15 +31,15 @@ def get_con_wr(commit=True,schema="learning_dashboard"):
                     # Commit if requested
                     if commit:
                         await trx.commit()
-
-                    return result, data, None  # always include error as last element
+                    return result, data, None  # always return 3 values
 
                 except Exception as e:
+                    log_errors(func,e)
                     await trx.rollback()
                     return None, None, e  # on error, result and data are None and error as last element
         return wrapper
     return decorator
-    
+
 #get connection and read only
 def get_con_ro(schema="learning_dashboard"):
     """
@@ -46,9 +49,12 @@ def get_con_ro(schema="learning_dashboard"):
     def decorator(func):
         @wraps(func)
         async def wrapper(*args, **kwargs):
-            async with db.db_connections_pool.acquire() as conn:
-                await conn.execute(f'SET search_path TO {schema}')
-                kwargs['conn'] = conn
-                return await func(*args, **kwargs)
+            try:
+                async with db.db_connections_pool.acquire() as conn:
+                    await conn.execute(f'SET search_path TO {schema}')
+                    kwargs['conn'] = conn
+                    return await func(*args, **kwargs)
+            except Exception as e:
+                log_errors(func,e)
         return wrapper
     return decorator

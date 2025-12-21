@@ -1,12 +1,13 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException,Depends
 from app.database.decorators import get_con_wr,get_con_ro
 from app.models.course_model import CourseCreate
 
 router=APIRouter(prefix="/courses" , tags=["placeholder"])
 
+#depends is a placeholder so malicious actor cant inject
 @router.post("/new")
 @get_con_wr()
-async def create_course(new_course: CourseCreate, conn):
+async def create_course(new_course: CourseCreate, conn=Depends(lambda : None)):
     print(new_course)
     async with conn.transaction():  # explicit transaction
         row = await conn.fetchrow(

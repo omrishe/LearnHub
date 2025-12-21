@@ -1,8 +1,8 @@
-
+import TopNavBar from "./top-nav-bar"
 
 //will contain nav bar,logo
 export default function Header(){
   return(
-    <h1>header works</h1>
+    <TopNavBar></TopNavBar>
   )
 }

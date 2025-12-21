@@ -5,6 +5,7 @@ from datetime import datetime
 # Base model for shared attributes
 class UserBase(BaseModel):
     email: EmailStr
+    username: str
     first_name: str
     last_name: str
     class Config:
@@ -12,7 +13,7 @@ class UserBase(BaseModel):
     
 # Model used for creating a new user
 class UserCreate(UserBase):
-    password: str  # plain password, will hash before storing
+    password_hash: str  # plain password, will hash before storing
 
 # Model returned in responses (without password)
 class UserRead(UserBase):
