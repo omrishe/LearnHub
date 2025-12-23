@@ -1,0 +1,777 @@
+2025-12-23 14:00:45,892 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:00:45,892 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:00:45,893 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:00:45,895 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:07:08,902 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:07:08,902 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:07:08,902 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:07:08,906 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:17:59,985 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:17:59,985 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:17:59,985 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:17:59,988 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:18:30,100 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:18:30,100 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:18:30,101 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:18:30,103 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:19:30,484 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:19:30,484 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:19:30,484 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:19:30,486 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:19:56,447 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:19:56,447 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:19:56,447 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:19:56,450 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:30:56,941 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:30:56,941 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:30:56,941 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:30:56,943 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:44:38,307 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:44:38,307 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:44:38,307 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:44:38,310 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:44:46,001 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:44:46,001 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:44:46,001 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:44:46,004 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:44:57,455 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:44:57,455 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:44:57,455 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:44:57,457 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:52:04,760 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:52:04,760 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:52:04,760 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:52:04,763 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:52:16,897 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:52:16,897 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:52:16,897 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:52:16,900 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:52:24,945 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:52:24,946 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:52:24,946 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:52:24,948 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:52:40,747 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    user_data.password_hash=hash_password(user_data.password_hash)
+                                          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\pydantic\main.py", line 1026, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'UserCreate' object has no attribute 'password_hash'
+
+2025-12-23 14:53:27,161 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:53:27,161 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:53:27,161 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:53:27,164 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:54:11,714 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:54:11,714 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:54:11,714 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:54:11,716 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 14:58:47,488 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 14:58:47,488 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 14:58:47,488 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 14:58:47,491 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:01:40,480 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:01:40,480 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:01:40,480 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:01:40,482 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:01:43,612 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    user_data.password_hash=hash_password(user_data.password_hash)
+                                          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\pydantic\main.py", line 1026, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'UserCreate' object has no attribute 'password_hash'
+
+2025-12-23 15:03:39,861 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:03:39,861 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:03:39,861 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:03:39,863 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:03:59,155 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password_hash)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\pydantic\main.py", line 1026, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'UserCreate' object has no attribute 'password_hash'
+
+2025-12-23 15:04:11,077 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:04:11,077 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:04:11,077 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:04:11,080 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:04:12,695 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password_hash)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\pydantic\main.py", line 1026, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'UserCreate' object has no attribute 'password_hash'
+
+2025-12-23 15:04:38,223 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:04:38,224 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:04:38,224 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:04:38,226 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:04:40,615 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:04:40,626 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:04:40,626 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:04:40,652 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 18, in hash_password
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:05:00,070 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:05:00,070 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:05:00,070 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:05:00,073 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:05:00,526 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:05:00,527 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:05:00,527 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:05:00,533 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 18, in hash_password
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:05:07,751 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:05:07,751 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:05:07,751 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:05:07,754 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:07:05,913 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:07:05,913 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:07:05,913 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:07:05,916 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:07:10,321 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:07:10,321 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:07:10,321 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:07:10,324 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:07:12,326 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:07:12,327 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:07:12,327 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:07:12,332 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 19, in hash_password
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:13:23,360 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:13:23,361 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:13:23,361 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:13:23,363 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:13:25,245 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:13:25,246 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:13:25,246 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:13:25,251 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 18, in hash_password
+    hashed=pwd_context.hash(password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:15:11,084 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:15:11,084 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:15:11,084 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:15:11,087 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:15:13,110 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:15:13,111 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:15:13,111 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:15:13,116 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 19, in hash_password
+    hashed=pwd_context.hash(password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:15:19,259 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:15:19,259 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:15:19,259 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:15:19,261 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:15:19,846 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:15:19,847 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:15:19,847 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:15:19,852 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 19, in hash_password
+    hashed=pwd_context.hash(password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:15:48,119 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:15:48,119 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:15:48,119 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:15:48,121 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:16:15,409 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:16:15,409 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:16:15,409 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:16:15,411 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:16:21,779 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:16:21,779 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:16:21,779 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:16:21,782 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:16:23,750 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:16:23,750 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:16:23,750 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:16:23,754 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:16:23,754 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:16:23,760 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 23, in hash_password
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:17:05,126 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:17:05,127 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:17:05,127 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:17:05,129 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:17:07,302 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:17:07,303 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:17:07,303 - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+2025-12-23 15:17:07,307 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-23 15:17:07,307 - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+2025-12-23 15:17:07,313 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 14, in create_user
+    hashed_password=hash_password(user_data.password)
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\utils\security.py", line 24, in hash_password
+    return pwd_context.hash(password)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\context.py", line 2258, in hash
+    return record.hash(secret, **kwds)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 779, in hash
+    self.checksum = self._calc_checksum(secret)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 591, in _calc_checksum
+    self._stub_requires_backend()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2254, in _stub_requires_backend
+    cls.set_backend()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2156, in set_backend
+    return owner.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2163, in set_backend
+    return cls.set_backend(name, dryrun=dryrun)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2188, in set_backend
+    cls._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2311, in _set_backend
+    super(SubclassBackendMixin, cls)._set_backend(name, dryrun)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 2224, in _set_backend
+    ok = loader(**kwds)
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 626, in _load_backend_mixin
+    return mixin_cls._finalize_backend_mixin(name, dryrun)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 421, in _finalize_backend_mixin
+    if detect_wrap_bug(IDENT_2A):
+       ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 380, in detect_wrap_bug
+    if verify(secret, bug_hash):
+       ~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\utils\handlers.py", line 792, in verify
+    return consteq(self._calc_checksum(secret), chk)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 655, in _calc_checksum
+    hash = _bcrypt.hashpw(secret, config)
+ValueError: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+
+2025-12-23 15:22:17,507 - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+2025-12-23 15:22:17,507 - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+2025-12-23 15:22:17,507 - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+2025-12-23 15:22:17,510 - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2025-12-23 15:24:15,596 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 19, in create_user
+    user_data.username, user_data.email, user_data.password_hash,user_data.first_name,user_data.last_name
+                                         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\pydantic\main.py", line 1026, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'UserCreate' object has no attribute 'password_hash'
+
+2025-12-23 15:25:17,922 - ERROR - Exception in create_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 23, in wrapper
+    func_ret = await func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 17, in create_user
+    row = await conn.fetchrow(
+          ^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 752, in fetchrow
+    data = await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 2013, in _do_execute
+    stmt = await self._get_statement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 443, in _get_statement
+    statement = await self._protocol.prepare(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "asyncpg/protocol/protocol.pyx", line 165, in prepare
+asyncpg.exceptions.PostgresSyntaxError: INSERT has more target columns than expressions
+
+2025-12-23 15:51:23,538 - ERROR - Exception in login_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 56, in wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 34, in login_user
+    row = await conn.fetchrow(
+          ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 752, in fetchrow
+    data = await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 2013, in _do_execute
+    stmt = await self._get_statement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\omri\Desktop\projects\react project\backend\venv\Lib\site-packages\asyncpg\connection.py", line 443, in _get_statement
+    statement = await self._protocol.prepare(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "asyncpg/protocol/protocol.pyx", line 165, in prepare
+asyncpg.exceptions.UndefinedColumnError: column "password_hash" does not exist
+
+2025-12-23 15:53:12,802 - ERROR - Exception in login_user:
+Traceback (most recent call last):
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\database\decorators.py", line 56, in wrapper
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\omri\Desktop\projects\react project\backend\app\routers\user_route.py", line 47, in login_user
+    token = create_access_token(str(row["id"]))
+                                    ~~~^^^^^^
+KeyError: 'id'
+

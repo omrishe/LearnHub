@@ -1,4 +1,8 @@
-another way to post this one with full control -- manual commit + transaction
+uvicorn app.main:app --reload --port 8000 --ssl-certfile ./cert/localhost.pem --ssl-keyfile ./cert/localhost-key.pem --log-level info
+
+
+
+another way to post is this one with full control -- manual commit + transaction
 
 @app.post("/courses")
 @with_connection()

@@ -21,11 +21,17 @@ export interface UserUpdate {
   password?: string;
 }
 
-export interface UserBackend {
+export interface UserLogin {
+  email: string;
+  password: string;
+}
+
+export interface UserBackendRead {
   id: number;
-  email?: string;
+  email: string;
   username: string;
-  first_name?: string;
-  last_name?: string;
-  password_hash?: string;
+  first_name: string;
+  last_name: string;
+  password_hash: string;
+  createdAt: string;
 }

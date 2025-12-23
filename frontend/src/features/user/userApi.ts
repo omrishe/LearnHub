@@ -1,4 +1,4 @@
-import { UserCreate } from "./userInterfaces";
+import { UserCreate, UserLogin } from "./userInterfaces";
 import axios from "axios";
 import { createApi } from "@/lib/api";
 
@@ -15,4 +15,12 @@ export async function signup(data: UserCreate) {
     }
   }
 }
-export async function signin() {}
+
+export async function signin(data: UserLogin) {
+  try {
+    const response = await userApi.post("/signin", data);
+    console.log(response.data);
+  } catch (err) {
+    console.error("an error occured in signin:", err);
+  }
+}

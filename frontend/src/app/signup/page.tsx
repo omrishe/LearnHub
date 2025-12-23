@@ -2,9 +2,9 @@
 import Link from "next/link";
 import React, { useState } from "react";
 import { GoogleSignup } from "./Signup_google_button";
-import { InputButton } from "./InputButton";
 import { UserCreate } from "@/features/user/userInterfaces";
 import { signup } from "@/features/user/userApi";
+import { InputButton } from "@/components/InputButton";
 export default function Signup() {
   const [currentStep, setCurrentStep] = useState(1);
 

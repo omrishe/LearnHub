@@ -50,4 +50,8 @@ __screenshots__/
 .DS_Store
 Thumbs.db
 
+# sensitive data
 .env
+.pem 
+backend/errors.log
+backend/notes.txt

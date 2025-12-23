@@ -4,3 +4,4 @@ psycopg==3.3.2
 python-dotenv==1.2.1
 pydantic==2.12.5
 asyncpg==0.29.0
+passlib==1.7.4

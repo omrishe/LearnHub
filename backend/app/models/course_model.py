@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel,ConfigDict
 from typing import Optional
 
 # 1. Base model with shared attributes
@@ -7,8 +7,11 @@ class CourseBase(BaseModel):
     level: str
     duration_minutes: int
     
-    class Config:
-        orm_mode = True
+    model_config = ConfigDict(
+        from_attributes=True,
+        validate_by_alias=True,
+        validate_by_name=False)
+
 
 # 2. Model for creating a course (input)
 class CourseCreate(CourseBase):
